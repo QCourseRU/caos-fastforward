@@ -336,7 +336,7 @@ struct good {
 
 ## Секции виртуальной памяти
 
-![Segments of your programm mapped on virt memory](images/memory-programm-map.png)
+![Segments of your programm mapped on virt memory](images/memory-programm-map-white.png)
 
 ```c
 /* .text — машинный код функций, rx */
