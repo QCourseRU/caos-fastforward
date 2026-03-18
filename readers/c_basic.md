@@ -336,6 +336,8 @@ struct good {
 
 ## Секции виртуальной памяти
 
+![Segments of your programm mapped on virt memory](images/memory-programm-map.png)
+
 ```c
 /* .text — машинный код функций, rx */
 int add(int a, int b) { return a + b; }
